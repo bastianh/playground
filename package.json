@@ -4,7 +4,7 @@
     "description": "Testing Stuff",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 0"
     },
     "repository": {
         "type": "git",
@@ -15,5 +15,6 @@
     "bugs": {
         "url": "https://github.com/bastianh/playground/issues"
     },
-    "homepage": "https://github.com/bastianh/playground#readme"
+    "homepage": "https://github.com/bastianh/playground#readme",
+    "screeps_mod": true
 }
